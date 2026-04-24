@@ -14,7 +14,6 @@ Dataset yang digunakan terdiri dari 1.000.000 data pertanian yang dibagi menjadi
 - Linear Regression (Baseline)
 - Decision Tree (RandomizedSearchCV)
 - Random Forest (RandomizedSearchCV)
-- Gradient Boosting (RandomizedSearchCV)
 
 ---
 
@@ -31,5 +30,5 @@ Dataset yang digunakan terdiri dari 1.000.000 data pertanian yang dibagi menjadi
 ---
 
 ## Hasil Terbaik
-Model terbaik yang dihasilkan adalah **Random Forest** dengan R² Score ~0.92
+Model terbaik yang dihasilkan adalah ** Linear Regression** dengan R² Score ~0.92
 pada data validasi dan R² = 0.91 pada data testing.
